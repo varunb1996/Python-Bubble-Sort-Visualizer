@@ -1,4 +1,3 @@
-#ProjectGurukul's Guide for Visualization Of Bubble Sort
 #Import necessary modules
 import pygame
 
