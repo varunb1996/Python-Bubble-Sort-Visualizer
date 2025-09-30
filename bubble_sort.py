@@ -49,7 +49,7 @@ def bubble_sort():
 
 #Initially fill the screen black
 screen.fill((0,0,0,0))
-block =  font.render("ProjectGurukul's Guide for Visualization Of Bubble Sort", True, (255,0,150))
+block =  font.render("Visualization Of Bubble Sort", True, (255,0,150))
 screen.blit(block, (0,20))
 block1 =  font.render("Enter Input and press ENTER to visualize", True, (255,255,150))
 screen.blit(block1, (0,40))
